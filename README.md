@@ -98,7 +98,7 @@ MethodChannel(
             if (call.method == "initializeFramework") {}
         }
 ```
-When "initializeFramework" will be called it will invoke whatever
+When "initializeFramework" will be called it will invoke whatever 
 is inside the function of that method call
 
 Everything from here is calling the functions just like in native android
